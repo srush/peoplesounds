@@ -1,1 +1,21 @@
-hi
+
+Training 
+
+To make .wav files from mp3 run 
+
+> python peoplesounds/decode.py {path to base} 
+
+
+To run training
+
+> python peoplesounds/train.py {path to base}  {path to output}
+
+
+I've been using "data/run.txt" for output. The code will append to the file. 
+
+For training 
+
+- 'y' is for voice
+- 'n' is no voice
+- 's' is to skip (half voice/half no-voice)
+
