@@ -87,3 +87,158 @@
 /Pearl-Jam-1991/1991-Ten/08 - Porch.wav 3472430 3560630 y
 /Pearl-Jam-1991/1996-No-Code/07-pearl_jam-habit-debt.wav 6489832 6578032 n
 /Pearl-Jam-1991/1996-No-Code/07-pearl_jam-habit-debt.wav 8859732 8947932 n
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 5080014 5168214 y
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 9802208 9890408 y
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 475196 563396 n
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 8245980 8334180 y
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 7664158 7752358 n
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 5360903 5449103 y
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 2005471 2093671 n
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 13002835 13091035 n
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 13285566 13373766 n
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 18375470 18463670 y
+/Pearl-Jam-1991/1998-Yield/01-pearl_jam-brain_of_j-debt.wav 667407 755607 n
+/Pearl-Jam-1991/1998-Yield/01-pearl_jam-brain_of_j-debt.wav 4049545 4137745 n
+/Pearl-Jam-1991/1998-Yield/01-pearl_jam-brain_of_j-debt.wav 2946603 3034803 y
+/Pearl-Jam-1991/1998-Yield/01-pearl_jam-brain_of_j-debt.wav 1311515 1399715 y
+/Pearl-Jam-1991/1998-Yield/01-pearl_jam-brain_of_j-debt.wav 1225808 1314008 y
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 3745944 3834144 s
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 3199319 3287519 y
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 4583960 4672160 s
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 10328189 10416389 y
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 2957737 3045937 y
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 5629622 5717822 y
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 6757530 6845730 y
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 3510463 3598663 y
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 11759711 11847911 n
+/Pearl-Jam-1991/1994-Vitalogy/05 - Nothingman.wav 10996258 11084458 s
+/Pearl-Jam-1991/1996-No-Code/12-pearl_jam-im_open-debt.wav 1936566 2024766 y
+/Pearl-Jam-1991/1996-No-Code/12-pearl_jam-im_open-debt.wav 4306289 4394489 y
+/Pearl-Jam-1991/1996-No-Code/12-pearl_jam-im_open-debt.wav 7513756 7601956 n
+/Pearl-Jam-1991/1996-No-Code/12-pearl_jam-im_open-debt.wav 263911 352111 n
+/Pearl-Jam-1991/1996-No-Code/12-pearl_jam-im_open-debt.wav 5671607 5759807 y
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 310089 398289 n
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 427788 515988 n
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 9955006 10043206 s
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 471655 559855 n
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 2140028 2228228 y
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 7308710 7396910 s
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 3061681 3149881 n
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 7143360 7231560 y
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 4826093 4914293 s
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 5940604 6028804 n
+/Pearl-Jam-1991/1991-Ten/01 - Once.wav 5286539 5374739 y
+/Pearl-Jam-1991/1991-Ten/01 - Once.wav 9421663 9509863 s
+/Pearl-Jam-1991/1991-Ten/01 - Once.wav 7764617 7852817 y
+/Pearl-Jam-1991/1991-Ten/01 - Once.wav 3871127 3959327 s
+/Pearl-Jam-1991/1991-Ten/01 - Once.wav 4751533 4839733 y
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 4244205 4332405 y
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 7752602 7840802 y
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 8000294 8088494 y
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 5387782 5475982 s
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 9022160 9110360 y
+/Pearl-Jam-1991/1993-Vs./02 - Animal.wav 4494260 4582460 y
+/Pearl-Jam-1991/1993-Vs./02 - Animal.wav 4064548 4152748 y
+/Pearl-Jam-1991/1993-Vs./02 - Animal.wav 3197286 3285486 s
+/Pearl-Jam-1991/1993-Vs./02 - Animal.wav 6762417 6850617 s
+/Pearl-Jam-1991/1993-Vs./02 - Animal.wav 927352 1015552 y
+/Pearl-Jam-1991/1993-Vs./11 - Leash.wav 2441500 2529700 n
+/Pearl-Jam-1991/1993-Vs./11 - Leash.wav 3873305 3961505 s
+/Pearl-Jam-1991/1993-Vs./11 - Leash.wav 8004573 8092773 n
+/Pearl-Jam-1991/1993-Vs./11 - Leash.wav 5767093 5855293 y
+/Pearl-Jam-1991/1993-Vs./11 - Leash.wav 5587815 5676015 y
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 8250237 8338437 s
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 17750721 17838921 s
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 1261320 1349520 s
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 10060424 10148624 n
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 17751359 17839559 y
+/Pearl-Jam-1991/1998-Yield/07-pearl_jam-do_the_evolution-debt.wav 1226369 1314569 y
+/Pearl-Jam-1991/1998-Yield/07-pearl_jam-do_the_evolution-debt.wav 4084241 4172441 s
+/Pearl-Jam-1991/1998-Yield/07-pearl_jam-do_the_evolution-debt.wav 3112442 3200642 n
+/Pearl-Jam-1991/1998-Yield/07-pearl_jam-do_the_evolution-debt.wav 3779347 3867547 y
+/Pearl-Jam-1991/1998-Yield/07-pearl_jam-do_the_evolution-debt.wav 8543948 8632148 s
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 7916203 8004403 s
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 5447089 5535289 y
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 6209993 6298193 n
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 2611742 2699942 s
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 9769396 9857596 y
+/Pearl-Jam-1991/1996-No-Code/05-pearl_jam-smile-debt.wav 6618376 6706576 y
+/Pearl-Jam-1991/1996-No-Code/05-pearl_jam-smile-debt.wav 6068298 6156498 n
+/Pearl-Jam-1991/1996-No-Code/05-pearl_jam-smile-debt.wav 323343 411543 n
+/Pearl-Jam-1991/1996-No-Code/05-pearl_jam-smile-debt.wav 1319659 1407859 s
+/Pearl-Jam-1991/1996-No-Code/05-pearl_jam-smile-debt.wav 4578184 4666384 y
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 8155811 8244011 n
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 5206874 5295074 n
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 2491214 2579414 s
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 5012232 5100432 n
+/Pearl-Jam-1991/1998-Yield/05-pearl_jam-wishlist-debt.wav 4868634 4956834 n
+/Pearl-Jam-1991/1996-No-Code/10-pearl_jam-present_tense-debt.wav 6108274 6196474 s
+/Pearl-Jam-1991/1996-No-Code/10-pearl_jam-present_tense-debt.wav 13661971 13750171 n
+/Pearl-Jam-1991/1996-No-Code/10-pearl_jam-present_tense-debt.wav 5763306 5851506 y
+/Pearl-Jam-1991/1996-No-Code/10-pearl_jam-present_tense-debt.wav 9500831 9589031 s
+/Pearl-Jam-1991/1996-No-Code/10-pearl_jam-present_tense-debt.wav 2802424 2890624 y
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 7867035 7955235 y
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 4320183 4408383 s
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 4310858 4399058 s
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 10129943 10218143 y
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 201608 289808 n
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 9499888 9588088 s
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 82265 170465 y
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 7097041 7185241 n
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 4906524 4994724 s
+/Pearl-Jam-1991/1993-Vs./08 - Rearviewmirror.wav 2301931 2390131 s
+/Pearl-Jam-1991/1993-Vs./10 - Elderly Woman Behind the Counter in a Small Town.wav 8394187 8482387 s
+/Pearl-Jam-1991/1993-Vs./10 - Elderly Woman Behind the Counter in a Small Town.wav 3969000 4057200 y
+/Pearl-Jam-1991/1993-Vs./10 - Elderly Woman Behind the Counter in a Small Town.wav 4147405 4235605 n
+/Pearl-Jam-1991/1993-Vs./10 - Elderly Woman Behind the Counter in a Small Town.wav 837059 925259 y
+/Pearl-Jam-1991/1993-Vs./10 - Elderly Woman Behind the Counter in a Small Town.wav 6645276 6733476 s
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 11567316 11655516 n
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 7613817 7702017 s
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 2786814 2875014 s
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 3983923 4072123 n
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 9925316 10013516 n
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 11030303 11118503 s
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 14146492 14234692 y
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 19572145 19660345 n
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 8385154 8473354 n
+/Pearl-Jam-1991/1994-Vitalogy/14 - Hey Foxymophandlemama, That's Me.wav 10347694 10435894 s
+/Pearl-Jam-1991/1993-Vs./03 - Daughter.wav 1812461 1900661 s
+/Pearl-Jam-1991/1993-Vs./03 - Daughter.wav 2403532 2491732 y
+/Pearl-Jam-1991/1993-Vs./03 - Daughter.wav 5568291 5656491 s
+/Pearl-Jam-1991/1993-Vs./03 - Daughter.wav 2056730 2144930 s
+/Pearl-Jam-1991/1993-Vs./03 - Daughter.wav 7188827 7277027 y
+/Pearl-Jam-1991/1996-No-Code/02-pearl_jam-hail_hail-debt.wav 1967091 2055291 y
+/Pearl-Jam-1991/1996-No-Code/02-pearl_jam-hail_hail-debt.wav 73582 161782 n
+/Pearl-Jam-1991/1996-No-Code/02-pearl_jam-hail_hail-debt.wav 8208398 8296598 y
+/Pearl-Jam-1991/1996-No-Code/02-pearl_jam-hail_hail-debt.wav 5910211 5998411 s
+/Pearl-Jam-1991/1996-No-Code/02-pearl_jam-hail_hail-debt.wav 3595532 3683732 y
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 5456537 5544737 y
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 4934052 5022252 y
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 3356457 3444657 y
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 8463685 8551885 s
+/Pearl-Jam-1991/1994-Vitalogy/11 - Better Man.wav 3391105 3479305 y
+/Pearl-Jam-1991/1998-Yield/09-pearl_jam-mfc-debt.wav 4733823 4822023 y
+/Pearl-Jam-1991/1998-Yield/09-pearl_jam-mfc-debt.wav 1212152 1300352 y
+/Pearl-Jam-1991/1998-Yield/09-pearl_jam-mfc-debt.wav 6044897 6133097 n
+/Pearl-Jam-1991/1998-Yield/09-pearl_jam-mfc-debt.wav 3719621 3807821 y
+/Pearl-Jam-1991/1998-Yield/09-pearl_jam-mfc-debt.wav 672142 760342 n
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 4535164 4623364 s
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 5677541 5765741 s
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 10461111 10549311 y
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 8216633 8304833 y
+/Pearl-Jam-1991/1991-Ten/10 - Deep.wav 5798378 5886578 n
+/Pearl-Jam-1991/1994-Vitalogy/06 - Whipping.wav 3798774 3886974 y
+/Pearl-Jam-1991/1994-Vitalogy/06 - Whipping.wav 2584058 2672258 s
+/Pearl-Jam-1991/1994-Vitalogy/06 - Whipping.wav 3233218 3321418 s
+/Pearl-Jam-1991/1994-Vitalogy/06 - Whipping.wav 359376 447576 n
+/Pearl-Jam-1991/1994-Vitalogy/06 - Whipping.wav 3843852 3932052 y
+/Pearl-Jam-1991/1991-Ten/08 - Porch.wav 3652849 3741049 n
+/Pearl-Jam-1991/1991-Ten/08 - Porch.wav 3786648 3874848 n
+/Pearl-Jam-1991/1991-Ten/08 - Porch.wav 1889454 1977654 y
+/Pearl-Jam-1991/1991-Ten/08 - Porch.wav 4637877 4726077 n
+/Pearl-Jam-1991/1991-Ten/08 - Porch.wav 7666040 7754240 y
+/Pearl-Jam-1991/1996-No-Code/13-pearl_jam-around_the_bend-debt.wav 15575 103775 n
+/Pearl-Jam-1991/1996-No-Code/13-pearl_jam-around_the_bend-debt.wav 7351295 7439495 n
+/Pearl-Jam-1991/1996-No-Code/13-pearl_jam-around_the_bend-debt.wav 1710435 1798635 y
+/Pearl-Jam-1991/1996-No-Code/13-pearl_jam-around_the_bend-debt.wav 11126425 11214625 y
+/Pearl-Jam-1991/1996-No-Code/13-pearl_jam-around_the_bend-debt.wav 8410845 8499045 y
