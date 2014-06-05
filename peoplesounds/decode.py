@@ -1,5 +1,7 @@
 import glob
-import sys,os
+import subprocess
+import sys
+
 base = sys.argv[1]
 for f in glob.glob(base + "/*/*/*.mp3"):
-  os.system("lame --decode '%s'"%f)
+    subprocess.call(["lame", "--decode", f])
